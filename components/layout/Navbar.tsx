@@ -4,9 +4,9 @@ export default function Navbar() {
   return (
     <nav className="flex gap-4 p-4 border-b">
       <Link href="/">Inicio</Link>
-      <Link href="/products">Productos</Link>
-      <Link href="/dashboard">Dashboard</Link>
-      <Link href="/login">Login</Link>
+      <Link href="/equipos">equipos</Link>
+      <Link href="/pilotos">pilotos</Link>
+      <Link href="/carreras">carreras</Link>
     </nav>
   );
 }
