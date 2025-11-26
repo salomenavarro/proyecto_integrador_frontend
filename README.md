@@ -37,4 +37,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 
 ## Modulos descargables
 
+Shadcn
 
+npx shadcn@latest init
+npx shadcn@latest add navigation-menu / NAVBAR
